@@ -13,7 +13,15 @@ Creating FHIR Valueset from LRI/LOI/EDOS and ELR NIST Valuesets
    - mapping table for code system created file = code system mapping.xlsx
 1. transform to bundle using one of two transforms in the `nist-to-lri transforms` folder:
    1.single bundle of all resources using: "C:\Users\Eric\Documents\NIST_LOI\Valueset stuff\nist-to-lri transforms\splitter_v2.xslt" to get:
-     - http://htmlpreview.github.com/?https://github.com/Healthedata1/uslab-valuesets/blob/master/FHIR-batch-bundles/LRI.xml
+     - http://htmlpreview.github.com/?https://github.com/Healthedata1/uslab-valuesets/blob/master/FHIR-batch-bundles/ELR_bundle-nohyperlinks.xml"
+     - http://htmlpreview.github.com/?https://github.com/Healthedata1/uslab-valuesets/blob/master/FHIR-batch-bundles/LOI_bundle.xml"
+     - http://htmlpreview.github.com/?https://github.com/Healthedata1/uslab-valuesets/blob/master/FHIR-batch-bundles/LOI_bundle-nohyperlinks.xml"
+     - http://htmlpreview.github.com/?https://github.com/Healthedata1/uslab-valuesets/blob/master/FHIR-batch-bundles/LRI.xml"
+     - http://htmlpreview.github.com/?https://github.com/Healthedata1/uslab-valuesets/blob/master/FHIR-batch-bundles/LRI_bundle.xml"
+     - http://htmlpreview.github.com/?https://github.com/Healthedata1/uslab-valuesets/blob/master/FHIR-batch-bundles/LRI_bundle-nohyperlinks.xml"
+     - http://htmlpreview.github.com/?https://github.com/Healthedata1/uslab-valuesets/blob/master/FHIR-batch-bundles/code system mapping.xlsx"
+     - http://htmlpreview.github.com/?https://github.com/Healthedata1/uslab-valuesets/blob/master/FHIR-batch-bundles/EDOS_bundle-nohyperlinks.xml"
+     - http://htmlpreview.github.com/?https://github.com/Healthedata1/uslab-valuesets/blob/master/FHIR-batch-bundles/ELR_bundle.xml"
    1. Batch request bundle to load all valuesets into a FHIR server
 1. todos
    - fix the List fullURL and id so that will correctly post when doing a batch

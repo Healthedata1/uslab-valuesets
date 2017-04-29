@@ -21,7 +21,7 @@ Creating FHIR Valueset from LRI/LOI/EDOS and ELR NIST Valuesets
       - [LRI_bundle](http://htmlpreview.github.com/?https://github.com/Healthedata1/uslab-valuesets/blob/master/FHIR-batch-bundles/LRI_bundle.xml)
       - [LRI_bundle-nohyperlinks](http://htmlpreview.github.com/?https://github.com/Healthedata1/uslab-valuesets/blob/master/FHIR-batch-bundles/LRI_bundle-nohyperlinks.xml)
       - [EDOS_bundle-nohyperlinks](http://htmlpreview.github.com/?https://github.com/Healthedata1/uslab-valuesets/blob/master/FHIR-batch-bundles/EDOS_bundle-nohyperlinks.xml)
-      - [ELR_bundle]http://htmlpreview.github.com/?https://github.com/Healthedata1/uslab-valuesets/blob/master/FHIR-batch-bundles/ELR_bundle.xml)
+      - [ELR_bundle](http://htmlpreview.github.com/?https://github.com/Healthedata1/uslab-valuesets/blob/master/FHIR-batch-bundles/ELR_bundle.xml)
   
   
 1. todos

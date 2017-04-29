@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValueSetLibrary xsi:noNamespaceSchemaLocation="file:///C:/Users/Eric/Documents/NIST_LOI/Valueset%20stuff/20160324_1405_packageR1.1/lri.xsd" Description="NIST Created" Name="LRI-ORU" ValueSetLibraryIdentifier="" ValueSetLibraryVersion="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<NoValidation/>
+	<ValueSetDefinitions Group="HL7" Order="1">
+		<ValueSetDefinition BindingIdentifier="HL70001_USL.4" ContentDefinition="Extensional" Description="This value set defines all values for the patient administrative sex." Extensibility="Closed" Name="Administrative Sex" Oid="2.16.840.1.113883.9.195.4.1" Stability="Static" Version="V1.1">
+			<ValueElement CodeSystem="HL70001" CodeSystemVersion="2.5.1" DisplayName="Ambiguous" Usage="P" Value="A"/>
+			<ValueElement CodeSystem="HL70001" CodeSystemVersion="2.5.1" DisplayName="Female" Usage="R" Value="F"/>
+			<ValueElement CodeSystem="HL70001" CodeSystemVersion="2.5.1" DisplayName="Male" Usage="R" Value="M"/>
+			<ValueElement CodeSystem="HL70001" CodeSystemVersion="2.5.1" DisplayName="Not Applicable" Usage="P" Value="N"/>
+			<ValueElement CodeSystem="HL70001" CodeSystemVersion="2.5.1" DisplayName="Other" Usage="P" Value="O"/>
+			<ValueElement CodeSystem="HL70001" CodeSystemVersion="2.5.1" DisplayName="Unknown" Usage="R" Value="U"/>
+		</ValueSetDefinition>
+		<ValueSetDefinition BindingIdentifier="HL70155_USL.8" ContentDefinition="Extensional" Description="" Extensibility="Closed" Name="Accept/Application Acknowledgment Conditions" Oid="2.16.840.1.113883.9.195.4.23" Stability="Static" Version="V1.1">
+			<ValueElement CodeSystem="HL70155" CodeSystemVersion="2.5.1" Comments="Note that there are constraints on combinations of MSH-15 and MSH-16 in the same message that are described further in each IG." DisplayName="Always" Usage="R" Value="AL"/>
+			<ValueElement CodeSystem="HL70155" CodeSystemVersion="2.5.1" DisplayName="Error/reject conditions only" Usage="P" Value="ER"/>
+			<ValueElement CodeSystem="HL70155" CodeSystemVersion="2.5.1" DisplayName="Never" Usage="E" Value="NE"/>
+			<ValueElement CodeSystem="HL70155" CodeSystemVersion="2.5.1" DisplayName="Successful completion only" Usage="E" Value="SU"/>
+		</ValueSetDefinition>
+		<ValueSetDefinition BindingIdentifier="HL70155_USL.7" ContentDefinition="Extensional" Description="" Extensibility="Closed" Name="Accept/Application Acknowledgment Conditions" Oid="2.16.840.1.113883.9.195.4.23" Stability="Static" Version="V1.1">
+			<ValueElement CodeSystem="HL70155" CodeSystemVersion="2.5.1" Comments="Note that there are constraints on combinations of MSH-15 and MSH-16 in the same message that are described further in each IG." DisplayName="Always" Usage="R" Value="AL"/>
+			<ValueElement CodeSystem="HL70155" CodeSystemVersion="2.5.1" DisplayName="Error/reject conditions only" Usage="E" Value="ER"/>
+			<ValueElement CodeSystem="HL70155" CodeSystemVersion="2.5.1" DisplayName="Never" Usage="P" Value="NE"/>
+			<ValueElement CodeSystem="HL70155" CodeSystemVersion="2.5.1" DisplayName="Successful completion only" Usage="E" Value="SU"/>
+		</ValueSetDefinition>
+	</ValueSetDefinitions>
+</ValueSetLibrary>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="ValueSetLibrary">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="NoValidation">
+					<xs:complexType/>
+				</xs:element>
+				<xs:element name="ValueSetDefinitions">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ValueSetDefinition" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="MessageLocation" type="xs:string"/>
+										<xs:element name="ValueElement" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:attribute name="CodeSystem" type="xs:string"/>
+												<xs:attribute name="CodeSystemVersion" type="xs:string"/>
+												<xs:attribute name="DisplayName" use="required" type="xs:string"/>
+												<xs:attribute name="Usage" use="required" type="xs:string"/>
+												<xs:attribute name="Value" use="required" type="xs:string"/>
+												<xs:attribute name="Comments" type="xs:string"/>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+									<xs:attribute name="BindingIdentifier" use="required" type="xs:string"/>
+									<xs:attribute name="ContentDefinition" use="required" type="xs:string"/>
+									<xs:attribute name="Description" use="required" type="xs:string"/>
+									<xs:attribute name="Extensibility" use="required" type="xs:string"/>
+									<xs:attribute name="Name" use="required" type="xs:string"/>
+									<xs:attribute name="Oid" use="required" type="xs:string"/>
+									<xs:attribute name="Stability" use="required" type="xs:string"/>
+									<xs:attribute name="Version" use="required" type="xs:string"/>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="Group" use="required" type="xs:string"/>
+						<xs:attribute name="Order" use="required" type="xs:byte"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+			<xs:attribute name="Description" use="required" type="xs:string"/>
+			<xs:attribute name="Name" use="required" type="xs:string"/>
+			<xs:attribute name="ValueSetLibraryIdentifier" use="required" type="xs:string"/>
+			<xs:attribute name="ValueSetLibraryVersion" use="required" type="xs:decimal"/>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValueSetLibrary xsi:noNamespaceSchemaLocation="file:///C:/Users/Eric/Documents/NIST_LOI/Valueset%20stuff/20160324_1405_packageR1.1/lri.xsd" Description="NIST Created" Name="LOI-ACC" ValueSetLibraryIdentifier="" ValueSetLibraryVersion="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<NoValidation/>
+	<ValueSetDefinitions Group="HL7" Order="1">
+		<ValueSetDefinition BindingIdentifier="HL70155_USL.4" ContentDefinition="Extensional" Description="" Extensibility="Closed" Name="Accept/Application Acknowledgment Conditions" Oid="2.16.840.1.113883.9.195.4.23" Stability="Static" Version="V1.1">
+			<ValueElement CodeSystem="HL70155" CodeSystemVersion="2.5.1" Comments="Note that there are constraints on combinations of MSH-15 and MSH-16 in the same message that are described further in each IG." DisplayName="Always" Usage="E" Value="AL"/>
+			<ValueElement CodeSystem="HL70155" CodeSystemVersion="2.5.1" DisplayName="Error/reject conditions only" Usage="E" Value="ER"/>
+			<ValueElement CodeSystem="HL70155" CodeSystemVersion="2.5.1" DisplayName="Never" Usage="R" Value="NE"/>
+			<ValueElement CodeSystem="HL70155" CodeSystemVersion="2.5.1" DisplayName="Successful completion only" Usage="E" Value="SU"/>
+		</ValueSetDefinition>
+		<ValueSetDefinition BindingIdentifier="HL70155_USL.3" ContentDefinition="Extensional" Description="" Extensibility="Closed" Name="Accept/Application Acknowledgment Conditions" Oid="2.16.840.1.113883.9.195.4.23" Stability="Static" Version="V1.1">
+			<ValueElement CodeSystem="HL70155" CodeSystemVersion="2.5.1" Comments="Note that there are constraints on combinations of MSH-15 and MSH-16 in the same message that are described further in each IG." DisplayName="Always" Usage="E" Value="AL"/>
+			<ValueElement CodeSystem="HL70155" CodeSystemVersion="2.5.1" DisplayName="Error/reject conditions only" Usage="E" Value="ER"/>
+			<ValueElement CodeSystem="HL70155" CodeSystemVersion="2.5.1" DisplayName="Never" Usage="R" Value="NE"/>
+			<ValueElement CodeSystem="HL70155" CodeSystemVersion="2.5.1" DisplayName="Successful completion only" Usage="E" Value="SU"/>
+		</ValueSetDefinition>
+	</ValueSetDefinitions>
+</ValueSetLibrary>

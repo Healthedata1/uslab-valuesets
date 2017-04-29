@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with Altova MapForce 2016sp1 -->
+<mapping xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="22">
+	<resources/>
+	<component name="defaultmap1" blackbox="0" uid="1" editable="1">
+		<properties SelectedLanguage="builtin"/>
+		<structure>
+			<children>
+				<component name="value-map" library="core" uid="12" kind="23">
+					<properties/>
+					<sources>
+						<datapoint pos="0" key="74"/>
+					</sources>
+					<targets>
+						<datapoint pos="0" key="75"/>
+					</targets>
+					<view ltx="676" lty="169" rbx="753" rby="208"/>
+					<data>
+						<wsdl/>
+						<valuemap enableDefaultValue="1">
+							<valuemapTable>
+								<entry from="Laboratory - US Realm Value Sets" to="2.16.840.1.113883.9.195.4"/>
+								<entry from="Administrative Sex" to="2.16.840.1.113883.9.195.4.1"/>
+								<entry from="Patient Class" to="2.16.840.1.113883.9.195.4.2"/>
+								<entry from="Race" to="2.16.840.1.113883.9.195.4.3"/>
+								<entry from="Acknowledgment Code" to="2.16.840.1.113883.9.195.4.4"/>
+								<entry from="Courtesy Code" to="2.16.840.1.113883.9.195.4.5"/>
+								<entry from="Diagnosis Type" to="2.16.840.1.113883.9.195.4.6"/>
+								<entry from="Relationship" to="2.16.840.1.113883.9.195.4.7"/>
+								<entry from="Financial Class" to="2.16.840.1.113883.9.195.4.8"/>
+								<entry from="Specimen Action Code" to="2.16.840.1.113883.9.195.4.9"/>
+								<entry from="Insurance Plan ID" to="2.16.840.1.113883.9.195.4.10"/>
+								<entry from="Diagnostic Service Section ID" to="2.16.840.1.113883.9.195.4.11"/>
+								<entry from="Interpretation Codes" to="2.16.840.1.113883.9.195.4.12"/>
+								<entry from="Observation Result Status Codes Interpretation" to="2.16.840.1.113883.9.195.4.13"/>
+								<entry from="Procedure Code" to="2.16.840.1.113883.9.195.4.14"/>
+								<entry from="Type of Agreement" to="2.16.840.1.113883.9.195.4.15"/>
+								<entry from="Processing ID" to="2.16.840.1.113883.9.195.4.16"/>
+								<entry from="Source of Comment" to="2.16.840.1.113883.9.195.4.17"/>
+								<entry from="Order Control Codes" to="2.16.840.1.113883.9.195.4.18"/>
+								<entry from="Result Status" to="2.16.840.1.113883.9.195.4.19"/>
+								<entry from="Value Type" to="2.16.840.1.113883.9.195.4.20"/>
+								<entry from="Contact Role" to="2.16.840.1.113883.9.195.4.21"/>
+								<entry from="Yes/no Indicator" to="2.16.840.1.113883.9.195.4.22"/>
+								<entry from="Accept/Application Acknowledgment Conditions" to="2.16.840.1.113883.9.195.4.23"/>
+								<entry from="Nature of Service/Test/Observation" to="2.16.840.1.113883.9.195.4.24"/>
+								<entry from="Master File Identifier Code" to="2.16.840.1.113883.9.195.4.25"/>
+								<entry from="File Level Event Code" to="2.16.840.1.113883.9.195.4.26"/>
+								<entry from="Response Level" to="2.16.840.1.113883.9.195.4.27"/>
+								<entry from="Record-level Event Code" to="2.16.840.1.113883.9.195.4.28"/>
+								<entry from="Ethnic Group" to="2.16.840.1.113883.9.195.4.29"/>
+								<entry from="Address Type" to="2.16.840.1.113883.9.195.4.30"/>
+								<entry from="Type of Referenced Data" to="2.16.840.1.113883.9.195.4.31"/>
+								<entry from="Name Type" to="2.16.840.1.113883.9.195.4.32"/>
+								<entry from="Telecommunication Equipment Type" to="2.16.840.1.113883.9.195.4.33"/>
+								<entry from="Identifier Type" to="2.16.840.1.113883.9.195.4.34"/>
+								<entry from="Segment Action Code" to="2.16.840.1.113883.9.195.4.35"/>
+								<entry from="Subtype of Referenced Data" to="2.16.840.1.113883.9.195.4.36"/>
+								<entry from="Encoding" to="2.16.840.1.113883.9.195.4.37"/>
+								<entry from="Universal ID Type" to="2.16.840.1.113883.9.195.4.38"/>
+								<entry from="Advanced Beneficiary Notice Code" to="2.16.840.1.113883.9.195.4.39"/>
+								<entry from="Message Error Condition Codes" to="2.16.840.1.113883.9.195.4.40"/>
+								<entry from="Diagnosis Priority" to="2.16.840.1.113883.9.195.4.41"/>
+								<entry from="Application" to="2.16.840.1.113883.9.195.4.42"/>
+								<entry from="Facility" to="2.16.840.1.113883.9.195.4.43"/>
+								<entry from="Additive/Preservative" to="2.16.840.1.113883.9.195.4.44"/>
+								<entry from="Special Handling Code" to="2.16.840.1.113883.9.195.4.45"/>
+								<entry from="Country Codes (ISO-3166-1)" to="2.16.840.1.113883.9.195.4.46"/>
+								<entry from="Supplemental Service Information Values" to="2.16.840.1.113883.9.195.4.47"/>
+								<entry from="Extended Priority Codes" to="2.16.840.1.113883.9.195.4.48"/>
+								<entry from="Specimen Type" to="2.16.840.1.113883.9.195.4.49"/>
+								<entry from="Specimen Collection Method" to="2.16.840.1.113883.9.195.4.50"/>
+								<entry from="Specimen Reject Reason" to="2.16.840.1.113883.9.195.4.51"/>
+								<entry from="Specimen Condition" to="2.16.840.1.113883.9.195.4.52"/>
+								<entry from="Observation Result Handling" to="2.16.840.1.113883.9.195.4.53"/>
+								<entry from="Error Severity" to="2.16.840.1.113883.9.195.4.54"/>
+								<entry from="Application Error Code" to="2.16.840.1.113883.9.195.4.55"/>
+								<entry from="Participation" to="2.16.840.1.113883.9.195.4.56"/>
+								<entry from="Relevant Clinical Information" to="2.16.840.1.113883.9.195.4.57"/>
+								<entry from="Exclusive Test" to="2.16.840.1.113883.9.195.4.58"/>
+								<entry from="Preferred Specimen/Attribute Status" to="2.16.840.1.113883.9.195.4.59"/>
+								<entry from="Observation Type" to="2.16.840.1.113883.9.195.4.60"/>
+								<entry from="Observation Sub-Type" to="2.16.840.1.113883.9.195.4.61"/>
+								<entry from="Collection Event/Process Step Limit" to="2.16.840.1.113883.9.195.4.62"/>
+								<entry from="Communication Location" to="2.16.840.1.113883.9.195.4.63"/>
+								<entry from="Parish Codes" to="2.16.840.1.113883.9.195.4.64"/>
+								<entry from="LOINC" to="2.16.840.1.113883.9.195.4.65"/>
+								<entry from="SNOMED CT" to="2.16.840.1.113883.9.195.4.66"/>
+								<entry from="UCUM" to="2.16.840.1.113883.9.195.4.67"/>
+								<entry from="US Postal Service - State Codes" to="2.16.840.1.113883.9.195.4.68"/>
+							</valuemapTable>
+							<input name="input" type="string"/>
+							<result name="result" type="string" defaultValue="TBD"/>
+						</valuemap>
+					</data>
+				</component>
+				<component name="lri" library="xml" uid="3" kind="14">
+					<properties XSLTTargetEncoding="UTF-8" XSLTDefaultOutput="1"/>
+					<view ltx="1091" lty="47" rbx="1400" rby="562"/>
+					<data>
+						<root scrollposition="1">
+							<header>
+								<namespaces>
+									<namespace/>
+									<namespace uid="http://www.altova.com/mapforce"/>
+								</namespaces>
+							</header>
+							<entry name="FileInstance" ns="1" expanded="1">
+								<entry name="document" ns="1" expanded="1" casttotargettypemode="cast-in-subtree">
+									<entry name="ValueSetLibrary" inpkey="28" expanded="1">
+										<entry name="Description" type="attribute" inpkey="29"/>
+										<entry name="Name" type="attribute" inpkey="30"/>
+										<entry name="ValueSetLibraryIdentifier" type="attribute" inpkey="31"/>
+										<entry name="ValueSetLibraryVersion" type="attribute" inpkey="32"/>
+										<entry name="NoValidation" inpkey="33"/>
+										<entry name="ValueSetDefinitions" inpkey="34" expanded="1">
+											<entry name="Group" type="attribute" inpkey="35"/>
+											<entry name="Order" type="attribute" inpkey="36"/>
+											<entry name="ValueSetDefinition" inpkey="37" expanded="1">
+												<entry name="BindingIdentifier" type="attribute" inpkey="38"/>
+												<entry name="ContentDefinition" type="attribute" inpkey="39"/>
+												<entry name="Description" type="attribute" inpkey="40"/>
+												<entry name="Extensibility" type="attribute" inpkey="41"/>
+												<entry name="Name" type="attribute" inpkey="42"/>
+												<entry name="Oid" type="attribute" inpkey="1"/>
+												<entry name="Stability" type="attribute" inpkey="43"/>
+												<entry name="Version" type="attribute" inpkey="44"/>
+												<entry name="MessageLocation" inpkey="45"/>
+												<entry name="ValueElement" inpkey="46" expanded="1">
+													<entry name="CodeSystem" type="attribute" inpkey="79"/>
+													<entry name="CodeSystemVersion" type="attribute" inpkey="80"/>
+													<entry name="DisplayName" type="attribute" inpkey="81"/>
+													<entry name="Usage" type="attribute" inpkey="82"/>
+													<entry name="Value" type="attribute" inpkey="83"/>
+													<entry name="Comments" type="attribute" inpkey="84"/>
+												</entry>
+											</entry>
+										</entry>
+									</entry>
+								</entry>
+							</entry>
+						</root>
+						<document schema="20160324_1405_packageR1.1\lri.xsd" inputinstance="20160324_1405_packageR1.1\lri.oru.xml" outputinstance="20160324_1405_packageR1.1\lri.oru.xml" instanceroot="{}ValueSetLibrary"/>
+						<wsdl/>
+					</data>
+				</component>
+				<component name="lri" library="xml" uid="7" kind="14">
+					<properties XSLTTargetEncoding="UTF-8" AddSchemaLocation="0" EnableMinMaxOccursOptimizations="0"/>
+					<view ltx="129" lty="47" rbx="418" rby="562"/>
+					<data>
+						<root scrollposition="1">
+							<header>
+								<namespaces>
+									<namespace/>
+									<namespace uid="http://www.altova.com/mapforce"/>
+								</namespaces>
+							</header>
+							<entry name="FileInstance" ns="1" expanded="1">
+								<entry name="document" ns="1" expanded="1" casttotargettypemode="cast-in-subtree">
+									<entry name="ValueSetLibrary" outkey="9" expanded="1">
+										<entry name="Description" type="attribute" outkey="10"/>
+										<entry name="Name" type="attribute" outkey="11"/>
+										<entry name="ValueSetLibraryIdentifier" type="attribute" outkey="12"/>
+										<entry name="ValueSetLibraryVersion" type="attribute" outkey="13"/>
+										<entry name="NoValidation" outkey="14"/>
+										<entry name="ValueSetDefinitions" outkey="15" expanded="1">
+											<entry name="Group" type="attribute" outkey="16"/>
+											<entry name="Order" type="attribute" outkey="17"/>
+											<entry name="ValueSetDefinition" outkey="18" expanded="1">
+												<entry name="BindingIdentifier" type="attribute" outkey="19"/>
+												<entry name="ContentDefinition" type="attribute" outkey="20"/>
+												<entry name="Description" type="attribute" outkey="21"/>
+												<entry name="Extensibility" type="attribute" outkey="22"/>
+												<entry name="Name" type="attribute" outkey="23"/>
+												<entry name="Stability" type="attribute" outkey="24"/>
+												<entry name="Version" type="attribute" outkey="25"/>
+												<entry name="MessageLocation" outkey="26"/>
+												<entry name="ValueElement" outkey="27" expanded="1">
+													<entry name="CodeSystem" type="attribute" outkey="85"/>
+													<entry name="CodeSystemVersion" type="attribute" outkey="86"/>
+													<entry name="DisplayName" type="attribute" outkey="87"/>
+													<entry name="Usage" type="attribute" outkey="88"/>
+													<entry name="Value" type="attribute" outkey="89"/>
+													<entry name="Comments" type="attribute" outkey="90"/>
+												</entry>
+											</entry>
+										</entry>
+									</entry>
+								</entry>
+							</entry>
+						</root>
+						<document schema="20160324_1405_packageR1.1\lri.xsd" inputinstance="20160324_1405_packageR1.1\lri.xml" instanceroot="{}ValueSetLibrary"/>
+						<wsdl/>
+					</data>
+				</component>
+				<component name="value-map" library="core" uid="13" kind="23">
+					<properties/>
+					<sources>
+						<datapoint pos="0" key="91"/>
+					</sources>
+					<targets>
+						<datapoint pos="0" key="92"/>
+					</targets>
+					<view ltx="702" lty="417" rbx="779" rby="456"/>
+					<data>
+						<wsdl/>
+						<valuemap enableDefaultValue="1">
+							<valuemapTable>
+								<entry from="HL70001" to="http://hl7.org/fhir/v2/1"/>
+								<entry from="HL70002" to="http://hl7.org/fhir/v2/2"/>
+								<entry from="HL70003" to="http://hl7.org/fhir/v2/3"/>
+								<entry from="HL70004" to="http://hl7.org/fhir/v2/4"/>
+								<entry from="HL70006" to="http://hl7.org/fhir/v2/6"/>
+								<entry from="HL70007" to="http://hl7.org/fhir/v2/7"/>
+								<entry from="HL70008" to="http://hl7.org/fhir/v2/8"/>
+								<entry from="HL70009" to="http://hl7.org/fhir/v2/9"/>
+								<entry from="HL70012" to="http://hl7.org/fhir/v2/12"/>
+								<entry from="HL70017" to="http://hl7.org/fhir/v2/17"/>
+								<entry from="HL70023" to="http://hl7.org/fhir/v2/23"/>
+								<entry from="HL70027" to="http://hl7.org/fhir/v2/27"/>
+								<entry from="HL70033" to="http://hl7.org/fhir/v2/33"/>
+								<entry from="HL70034" to="http://hl7.org/fhir/v2/34"/>
+								<entry from="HL70038" to="http://hl7.org/fhir/v2/38"/>
+								<entry from="HL70043" to="http://hl7.org/fhir/v2/43"/>
+								<entry from="HL70048" to="http://hl7.org/fhir/v2/48"/>
+								<entry from="HL70052" to="http://hl7.org/fhir/v2/52"/>
+								<entry from="HL70061" to="http://hl7.org/fhir/v2/61"/>
+								<entry from="HL70062" to="http://hl7.org/fhir/v2/62"/>
+								<entry from="HL70063" to="http://hl7.org/fhir/v2/63"/>
+								<entry from="HL70065" to="http://hl7.org/fhir/v2/65"/>
+								<entry from="HL70066" to="http://hl7.org/fhir/v2/66"/>
+								<entry from="HL70069" to="http://hl7.org/fhir/v2/69"/>
+								<entry from="HL70070" to="http://hl7.org/fhir/v2/70"/>
+								<entry from="HL70074" to="http://hl7.org/fhir/v2/74"/>
+								<entry from="HL70076" to="http://hl7.org/fhir/v2/76"/>
+								<entry from="HL70078" to="http://hl7.org/fhir/v2/78"/>
+								<entry from="HL70080" to="http://hl7.org/fhir/v2/80"/>
+								<entry from="HL70083" to="http://hl7.org/fhir/v2/83"/>
+								<entry from="HL70085" to="http://hl7.org/fhir/v2/85"/>
+								<entry from="HL70091" to="http://hl7.org/fhir/v2/91"/>
+								<entry from="HL70092" to="http://hl7.org/fhir/v2/92"/>
+								<entry from="HL70098" to="http://hl7.org/fhir/v2/98"/>
+								<entry from="HL70100" to="http://hl7.org/fhir/v2/100"/>
+								<entry from="HL70102" to="http://hl7.org/fhir/v2/102"/>
+								<entry from="HL70103" to="http://hl7.org/fhir/v2/103"/>
+								<entry from="HL70104" to="http://hl7.org/fhir/v2/104"/>
+								<entry from="HL70105" to="http://hl7.org/fhir/v2/105"/>
+								<entry from="HL70106" to="http://hl7.org/fhir/v2/106"/>
+								<entry from="HL70107" to="http://hl7.org/fhir/v2/107"/>
+								<entry from="HL70108" to="http://hl7.org/fhir/v2/108"/>
+								<entry from="HL70109" to="http://hl7.org/fhir/v2/109"/>
+								<entry from="HL70116" to="http://hl7.org/fhir/v2/116"/>
+								<entry from="HL70119" to="http://hl7.org/fhir/v2/119"/>
+								<entry from="HL70121" to="http://hl7.org/fhir/v2/121"/>
+								<entry from="HL70122" to="http://hl7.org/fhir/v2/122"/>
+								<entry from="HL70123" to="http://hl7.org/fhir/v2/123"/>
+								<entry from="HL70124" to="http://hl7.org/fhir/v2/124"/>
+								<entry from="HL70126" to="http://hl7.org/fhir/v2/126"/>
+								<entry from="HL70127" to="http://hl7.org/fhir/v2/127"/>
+								<entry from="HL70128" to="http://hl7.org/fhir/v2/128"/>
+								<entry from="HL70130" to="http://hl7.org/fhir/v2/130"/>
+								<entry from="HL70131" to="http://hl7.org/fhir/v2/131"/>
+								<entry from="HL70133" to="http://hl7.org/fhir/v2/133"/>
+								<entry from="HL70135" to="http://hl7.org/fhir/v2/135"/>
+								<entry from="HL70136" to="http://hl7.org/fhir/v2/136"/>
+								<entry from="HL70137" to="http://hl7.org/fhir/v2/137"/>
+								<entry from="HL70140" to="http://hl7.org/fhir/v2/140"/>
+								<entry from="HL70141" to="http://hl7.org/fhir/v2/141"/>
+								<entry from="HL70142" to="http://hl7.org/fhir/v2/142"/>
+								<entry from="HL70144" to="http://hl7.org/fhir/v2/144"/>
+								<entry from="HL70145" to="http://hl7.org/fhir/v2/145"/>
+								<entry from="HL70146" to="http://hl7.org/fhir/v2/146"/>
+								<entry from="HL70147" to="http://hl7.org/fhir/v2/147"/>
+								<entry from="HL70148" to="http://hl7.org/fhir/v2/148"/>
+								<entry from="HL70149" to="http://hl7.org/fhir/v2/149"/>
+								<entry from="HL70150" to="http://hl7.org/fhir/v2/150"/>
+								<entry from="HL70153" to="http://hl7.org/fhir/v2/153"/>
+								<entry from="HL70155" to="http://hl7.org/fhir/v2/155"/>
+								<entry from="HL70156" to="http://hl7.org/fhir/v2/156"/>
+								<entry from="HL70157" to="http://hl7.org/fhir/v2/157"/>
+								<entry from="HL70158" to="http://hl7.org/fhir/v2/158"/>
+								<entry from="HL70159" to="http://hl7.org/fhir/v2/159"/>
+								<entry from="HL70160" to="http://hl7.org/fhir/v2/160"/>
+								<entry from="HL70161" to="http://hl7.org/fhir/v2/161"/>
+								<entry from="HL70162" to="http://hl7.org/fhir/v2/162"/>
+								<entry from="HL70163" to="http://hl7.org/fhir/v2/163"/>
+								<entry from="HL70164" to="http://hl7.org/fhir/v2/164"/>
+								<entry from="HL70165" to="http://hl7.org/fhir/v2/165"/>
+								<entry from="HL70166" to="http://hl7.org/fhir/v2/166"/>
+								<entry from="HL70167" to="http://hl7.org/fhir/v2/167"/>
+								<entry from="HL70168" to="http://hl7.org/fhir/v2/168"/>
+								<entry from="HL70169" to="http://hl7.org/fhir/v2/169"/>
+								<entry from="HL70170" to="http://hl7.org/fhir/v2/170"/>
+								<entry from="HL70173" to="http://hl7.org/fhir/v2/173"/>
+								<entry from="HL70174" to="http://hl7.org/fhir/v2/174"/>
+								<entry from="HL70175" to="http://hl7.org/fhir/v2/175"/>
+								<entry from="HL70177" to="http://hl7.org/fhir/v2/177"/>
+								<entry from="HL70178" to="http://hl7.org/fhir/v2/178"/>
+								<entry from="HL70179" to="http://hl7.org/fhir/v2/179"/>
+								<entry from="HL70180" to="http://hl7.org/fhir/v2/180"/>
+								<entry from="HL70181" to="http://hl7.org/fhir/v2/181"/>
+								<entry from="HL70183" to="http://hl7.org/fhir/v2/183"/>
+								<entry from="HL70185" to="http://hl7.org/fhir/v2/185"/>
+								<entry from="HL70187" to="http://hl7.org/fhir/v2/187"/>
+								<entry from="HL70189" to="http://hl7.org/fhir/v2/189"/>
+								<entry from="HL70190" to="http://hl7.org/fhir/v2/190"/>
+								<entry from="HL70191" to="http://hl7.org/fhir/v2/191"/>
+								<entry from="HL70193" to="http://hl7.org/fhir/v2/193"/>
+								<entry from="HL70200" to="http://hl7.org/fhir/v2/200"/>
+								<entry from="HL70201" to="http://hl7.org/fhir/v2/201"/>
+								<entry from="HL70202" to="http://hl7.org/fhir/v2/202"/>
+								<entry from="HL70203" to="http://hl7.org/fhir/v2/203"/>
+								<entry from="HL70204" to="http://hl7.org/fhir/v2/204"/>
+								<entry from="HL70205" to="http://hl7.org/fhir/v2/205"/>
+								<entry from="HL70206" to="http://hl7.org/fhir/v2/206"/>
+								<entry from="HL70207" to="http://hl7.org/fhir/v2/207"/>
+								<entry from="HL70208" to="http://hl7.org/fhir/v2/208"/>
+								<entry from="HL70209" to="http://hl7.org/fhir/v2/209"/>
+								<entry from="HL70210" to="http://hl7.org/fhir/v2/210"/>
+								<entry from="HL70211" to="http://hl7.org/fhir/v2/211"/>
+								<entry from="HL70213" to="http://hl7.org/fhir/v2/213"/>
+								<entry from="HL70214" to="http://hl7.org/fhir/v2/214"/>
+								<entry from="HL70215" to="http://hl7.org/fhir/v2/215"/>
+								<entry from="HL70216" to="http://hl7.org/fhir/v2/216"/>
+								<entry from="HL70217" to="http://hl7.org/fhir/v2/217"/>
+								<entry from="HL70220" to="http://hl7.org/fhir/v2/220"/>
+								<entry from="HL70223" to="http://hl7.org/fhir/v2/223"/>
+								<entry from="HL70224" to="http://hl7.org/fhir/v2/224"/>
+								<entry from="HL70225" to="http://hl7.org/fhir/v2/225"/>
+								<entry from="HL70227" to="http://hl7.org/fhir/v2/227"/>
+								<entry from="HL70228" to="http://hl7.org/fhir/v2/228"/>
+								<entry from="HL70229" to="http://hl7.org/fhir/v2/229"/>
+								<entry from="HL70230" to="http://hl7.org/fhir/v2/230"/>
+								<entry from="HL70231" to="http://hl7.org/fhir/v2/231"/>
+								<entry from="HL70232" to="http://hl7.org/fhir/v2/232"/>
+								<entry from="HL70234" to="http://hl7.org/fhir/v2/234"/>
+								<entry from="HL70235" to="http://hl7.org/fhir/v2/235"/>
+								<entry from="HL70236" to="http://hl7.org/fhir/v2/236"/>
+								<entry from="HL70237" to="http://hl7.org/fhir/v2/237"/>
+								<entry from="HL70238" to="http://hl7.org/fhir/v2/238"/>
+								<entry from="HL70239" to="http://hl7.org/fhir/v2/239"/>
+								<entry from="HL70240" to="http://hl7.org/fhir/v2/240"/>
+								<entry from="HL70241" to="http://hl7.org/fhir/v2/241"/>
+								<entry from="HL70242" to="http://hl7.org/fhir/v2/242"/>
+								<entry from="HL70243" to="http://hl7.org/fhir/v2/243"/>
+								<entry from="HL70247" to="http://hl7.org/fhir/v2/247"/>
+								<entry from="HL70248" to="http://hl7.org/fhir/v2/248"/>
+								<entry from="HL70250" to="http://hl7.org/fhir/v2/250"/>
+								<entry from="HL70251" to="http://hl7.org/fhir/v2/251"/>
+								<entry from="HL70252" to="http://hl7.org/fhir/v2/252"/>
+								<entry from="HL70253" to="http://hl7.org/fhir/v2/253"/>
+								<entry from="HL70254" to="http://hl7.org/fhir/v2/254"/>
+								<entry from="HL70255" to="http://hl7.org/fhir/v2/255"/>
+								<entry from="HL70256" to="http://hl7.org/fhir/v2/256"/>
+								<entry from="HL70257" to="http://hl7.org/fhir/v2/257"/>
+								<entry from="HL70258" to="http://hl7.org/fhir/v2/258"/>
+								<entry from="HL70259" to="http://hl7.org/fhir/v2/259"/>
+								<entry from="HL70260" to="http://hl7.org/fhir/v2/260"/>
+								<entry from="HL70261" to="http://hl7.org/fhir/v2/261"/>
+								<entry from="HL70262" to="http://hl7.org/fhir/v2/262"/>
+								<entry from="HL70263" to="http://hl7.org/fhir/v2/263"/>
+								<entry from="HL70265" to="http://hl7.org/fhir/v2/265"/>
+								<entry from="HL70267" to="http://hl7.org/fhir/v2/267"/>
+								<entry from="HL70268" to="http://hl7.org/fhir/v2/268"/>
+								<entry from="HL70269" to="http://hl7.org/fhir/v2/269"/>
+								<entry from="HL70270" to="http://hl7.org/fhir/v2/270"/>
+								<entry from="HL70271" to="http://hl7.org/fhir/v2/271"/>
+								<entry from="HL70272" to="http://hl7.org/fhir/v2/272"/>
+								<entry from="HL70273" to="http://hl7.org/fhir/v2/273"/>
+								<entry from="HL70275" to="http://hl7.org/fhir/v2/275"/>
+								<entry from="HL70276" to="http://hl7.org/fhir/v2/276"/>
+								<entry from="HL70277" to="http://hl7.org/fhir/v2/277"/>
+								<entry from="HL70278" to="http://hl7.org/fhir/v2/278"/>
+								<entry from="HL70279" to="http://hl7.org/fhir/v2/279"/>
+								<entry from="HL70280" to="http://hl7.org/fhir/v2/280"/>
+								<entry from="HL70281" to="http://hl7.org/fhir/v2/281"/>
+								<entry from="HL70282" to="http://hl7.org/fhir/v2/282"/>
+								<entry from="HL70283" to="http://hl7.org/fhir/v2/283"/>
+								<entry from="HL70284" to="http://hl7.org/fhir/v2/284"/>
+								<entry from="HL70286" to="http://hl7.org/fhir/v2/286"/>
+								<entry from="HL70287" to="http://hl7.org/fhir/v2/287"/>
+								<entry from="HL70290" to="http://hl7.org/fhir/v2/290"/>
+								<entry from="HL70291" to="http://hl7.org/fhir/v2/291"/>
+								<entry from="HL70292" to="http://hl7.org/fhir/v2/292"/>
+								<entry from="HL70294" to="http://hl7.org/fhir/v2/294"/>
+								<entry from="HL70298" to="http://hl7.org/fhir/v2/298"/>
+								<entry from="HL70299" to="http://hl7.org/fhir/v2/299"/>
+								<entry from="HL70301" to="http://hl7.org/fhir/v2/301"/>
+								<entry from="HL70305" to="http://hl7.org/fhir/v2/305"/>
+								<entry from="HL70309" to="http://hl7.org/fhir/v2/309"/>
+								<entry from="HL70311" to="http://hl7.org/fhir/v2/311"/>
+								<entry from="HL70315" to="http://hl7.org/fhir/v2/315"/>
+								<entry from="HL70316" to="http://hl7.org/fhir/v2/316"/>
+								<entry from="HL70317" to="http://hl7.org/fhir/v2/317"/>
+								<entry from="HL70321" to="http://hl7.org/fhir/v2/321"/>
+								<entry from="HL70322" to="http://hl7.org/fhir/v2/322"/>
+								<entry from="HL70323" to="http://hl7.org/fhir/v2/323"/>
+								<entry from="HL70324" to="http://hl7.org/fhir/v2/324"/>
+								<entry from="HL70325" to="http://hl7.org/fhir/v2/325"/>
+								<entry from="HL70326" to="http://hl7.org/fhir/v2/326"/>
+								<entry from="HL70329" to="http://hl7.org/fhir/v2/329"/>
+								<entry from="HL70330" to="http://hl7.org/fhir/v2/330"/>
+								<entry from="HL70331" to="http://hl7.org/fhir/v2/331"/>
+								<entry from="HL70332" to="http://hl7.org/fhir/v2/332"/>
+								<entry from="HL70334" to="http://hl7.org/fhir/v2/334"/>
+								<entry from="HL70335" to="http://hl7.org/fhir/v2/335"/>
+								<entry from="HL70336" to="http://hl7.org/fhir/v2/336"/>
+								<entry from="HL70337" to="http://hl7.org/fhir/v2/337"/>
+								<entry from="HL70338" to="http://hl7.org/fhir/v2/338"/>
+								<entry from="HL70339" to="http://hl7.org/fhir/v2/339"/>
+								<entry from="HL70344" to="http://hl7.org/fhir/v2/344"/>
+								<entry from="HL70350" to="http://hl7.org/fhir/v2/350"/>
+								<entry from="HL70351" to="http://hl7.org/fhir/v2/351"/>
+								<entry from="HL70354" to="http://hl7.org/fhir/v2/354"/>
+								<entry from="HL70355" to="http://hl7.org/fhir/v2/355"/>
+								<entry from="HL70356" to="http://hl7.org/fhir/v2/356"/>
+								<entry from="HL70357" to="http://hl7.org/fhir/v2/357"/>
+								<entry from="HL70359" to="http://hl7.org/fhir/v2/359"/>
+								<entry from="HL70360" to="http://hl7.org/fhir/v2/360"/>
+								<entry from="HL70363" to="http://hl7.org/fhir/v2/363"/>
+								<entry from="HL70364" to="http://hl7.org/fhir/v2/364"/>
+								<entry from="HL70365" to="http://hl7.org/fhir/v2/365"/>
+								<entry from="HL70366" to="http://hl7.org/fhir/v2/366"/>
+								<entry from="HL70367" to="http://hl7.org/fhir/v2/367"/>
+								<entry from="HL70368" to="http://hl7.org/fhir/v2/368"/>
+								<entry from="HL70369" to="http://hl7.org/fhir/v2/369"/>
+								<entry from="HL70370" to="http://hl7.org/fhir/v2/370"/>
+								<entry from="HL70371" to="http://hl7.org/fhir/v2/371"/>
+								<entry from="HL70372" to="http://hl7.org/fhir/v2/372"/>
+								<entry from="HL70373" to="http://hl7.org/fhir/v2/373"/>
+								<entry from="HL70374" to="http://hl7.org/fhir/v2/374"/>
+								<entry from="HL70375" to="http://hl7.org/fhir/v2/375"/>
+								<entry from="HL70376" to="http://hl7.org/fhir/v2/376"/>
+								<entry from="HL70377" to="http://hl7.org/fhir/v2/377"/>
+								<entry from="HL70383" to="http://hl7.org/fhir/v2/383"/>
+								<entry from="HL70384" to="http://hl7.org/fhir/v2/384"/>
+								<entry from="HL70387" to="http://hl7.org/fhir/v2/387"/>
+								<entry from="HL70388" to="http://hl7.org/fhir/v2/388"/>
+								<entry from="HL70389" to="http://hl7.org/fhir/v2/389"/>
+								<entry from="HL70391" to="http://hl7.org/fhir/v2/391"/>
+								<entry from="HL70392" to="http://hl7.org/fhir/v2/392"/>
+								<entry from="HL70393" to="http://hl7.org/fhir/v2/393"/>
+								<entry from="HL70394" to="http://hl7.org/fhir/v2/394"/>
+								<entry from="HL70395" to="http://hl7.org/fhir/v2/395"/>
+								<entry from="HL70396" to="http://hl7.org/fhir/v2/396"/>
+								<entry from="HL70397" to="http://hl7.org/fhir/v2/397"/>
+								<entry from="HL70398" to="http://hl7.org/fhir/v2/398"/>
+								<entry from="HL70401" to="http://hl7.org/fhir/v2/401"/>
+								<entry from="HL70402" to="http://hl7.org/fhir/v2/402"/>
+								<entry from="HL70403" to="http://hl7.org/fhir/v2/403"/>
+								<entry from="HL70404" to="http://hl7.org/fhir/v2/404"/>
+								<entry from="HL70406" to="http://hl7.org/fhir/v2/406"/>
+								<entry from="HL70409" to="http://hl7.org/fhir/v2/409"/>
+								<entry from="HL70411" to="http://hl7.org/fhir/v2/411"/>
+								<entry from="HL70415" to="http://hl7.org/fhir/v2/415"/>
+								<entry from="HL70416" to="http://hl7.org/fhir/v2/416"/>
+								<entry from="HL70417" to="http://hl7.org/fhir/v2/417"/>
+								<entry from="HL70418" to="http://hl7.org/fhir/v2/418"/>
+								<entry from="HL70421" to="http://hl7.org/fhir/v2/421"/>
+								<entry from="HL70422" to="http://hl7.org/fhir/v2/422"/>
+								<entry from="HL70423" to="http://hl7.org/fhir/v2/423"/>
+								<entry from="HL70424" to="http://hl7.org/fhir/v2/424"/>
+								<entry from="HL70425" to="http://hl7.org/fhir/v2/425"/>
+								<entry from="HL70426" to="http://hl7.org/fhir/v2/426"/>
+								<entry from="HL70427" to="http://hl7.org/fhir/v2/427"/>
+								<entry from="HL70428" to="http://hl7.org/fhir/v2/428"/>
+								<entry from="HL70429" to="http://hl7.org/fhir/v2/429"/>
+								<entry from="HL70430" to="http://hl7.org/fhir/v2/430"/>
+								<entry from="HL70431" to="http://hl7.org/fhir/v2/431"/>
+								<entry from="HL70432" to="http://hl7.org/fhir/v2/432"/>
+								<entry from="HL70433" to="http://hl7.org/fhir/v2/433"/>
+								<entry from="HL70434" to="http://hl7.org/fhir/v2/434"/>
+								<entry from="HL70435" to="http://hl7.org/fhir/v2/435"/>
+								<entry from="HL70436" to="http://hl7.org/fhir/v2/436"/>
+								<entry from="HL70437" to="http://hl7.org/fhir/v2/437"/>
+								<entry from="HL70438" to="http://hl7.org/fhir/v2/438"/>
+								<entry from="HL70440" to="http://hl7.org/fhir/v2/440"/>
+								<entry from="HL70441" to="http://hl7.org/fhir/v2/441"/>
+								<entry from="HL70442" to="http://hl7.org/fhir/v2/442"/>
+								<entry from="HL70443" to="http://hl7.org/fhir/v2/443"/>
+								<entry from="HL70444" to="http://hl7.org/fhir/v2/444"/>
+								<entry from="HL70445" to="http://hl7.org/fhir/v2/445"/>
+								<entry from="HL70450" to="http://hl7.org/fhir/v2/450"/>
+								<entry from="HL70455" to="http://hl7.org/fhir/v2/455"/>
+								<entry from="HL70456" to="http://hl7.org/fhir/v2/456"/>
+								<entry from="HL70457" to="http://hl7.org/fhir/v2/457"/>
+								<entry from="HL70459" to="http://hl7.org/fhir/v2/459"/>
+								<entry from="HL70460" to="http://hl7.org/fhir/v2/460"/>
+								<entry from="HL70465" to="http://hl7.org/fhir/v2/465"/>
+								<entry from="HL70466" to="http://hl7.org/fhir/v2/466"/>
+								<entry from="HL70468" to="http://hl7.org/fhir/v2/468"/>
+								<entry from="HL70469" to="http://hl7.org/fhir/v2/469"/>
+								<entry from="HL70470" to="http://hl7.org/fhir/v2/470"/>
+								<entry from="HL70472" to="http://hl7.org/fhir/v2/472"/>
+								<entry from="HL70473" to="http://hl7.org/fhir/v2/473"/>
+								<entry from="HL70474" to="http://hl7.org/fhir/v2/474"/>
+								<entry from="HL70475" to="http://hl7.org/fhir/v2/475"/>
+								<entry from="HL70477" to="http://hl7.org/fhir/v2/477"/>
+								<entry from="HL70478" to="http://hl7.org/fhir/v2/478"/>
+								<entry from="HL70480" to="http://hl7.org/fhir/v2/480"/>
+								<entry from="HL70482" to="http://hl7.org/fhir/v2/482"/>
+								<entry from="HL70483" to="http://hl7.org/fhir/v2/483"/>
+								<entry from="HL70484" to="http://hl7.org/fhir/v2/484"/>
+								<entry from="HL70485" to="http://hl7.org/fhir/v2/485"/>
+								<entry from="HL70487" to="http://hl7.org/fhir/v2/487"/>
+								<entry from="HL70488" to="http://hl7.org/fhir/v2/488"/>
+								<entry from="HL70489" to="http://hl7.org/fhir/v2/489"/>
+								<entry from="HL70490" to="http://hl7.org/fhir/v2/490"/>
+								<entry from="HL70491" to="http://hl7.org/fhir/v2/491"/>
+								<entry from="HL70492" to="http://hl7.org/fhir/v2/492"/>
+								<entry from="HL70493" to="http://hl7.org/fhir/v2/493"/>
+								<entry from="HL70494" to="http://hl7.org/fhir/v2/494"/>
+								<entry from="HL70495" to="http://hl7.org/fhir/v2/495"/>
+								<entry from="HL70496" to="http://hl7.org/fhir/v2/496"/>
+								<entry from="HL70497" to="http://hl7.org/fhir/v2/497"/>
+								<entry from="HL70498" to="http://hl7.org/fhir/v2/498"/>
+								<entry from="HL70499" to="http://hl7.org/fhir/v2/499"/>
+								<entry from="HL70500" to="http://hl7.org/fhir/v2/500"/>
+								<entry from="HL70501" to="http://hl7.org/fhir/v2/501"/>
+								<entry from="HL70502" to="http://hl7.org/fhir/v2/502"/>
+								<entry from="HL70503" to="http://hl7.org/fhir/v2/503"/>
+								<entry from="HL70504" to="http://hl7.org/fhir/v2/504"/>
+								<entry from="HL70505" to="http://hl7.org/fhir/v2/505"/>
+								<entry from="HL70506" to="http://hl7.org/fhir/v2/506"/>
+								<entry from="HL70507" to="http://hl7.org/fhir/v2/507"/>
+								<entry from="HL70508" to="http://hl7.org/fhir/v2/508"/>
+								<entry from="HL70510" to="http://hl7.org/fhir/v2/510"/>
+								<entry from="HL70511" to="http://hl7.org/fhir/v2/511"/>
+								<entry from="HL70513" to="http://hl7.org/fhir/v2/513"/>
+								<entry from="HL70514" to="http://hl7.org/fhir/v2/514"/>
+								<entry from="HL70516" to="http://hl7.org/fhir/v2/516"/>
+								<entry from="HL70517" to="http://hl7.org/fhir/v2/517"/>
+								<entry from="HL70518" to="http://hl7.org/fhir/v2/518"/>
+								<entry from="HL70520" to="http://hl7.org/fhir/v2/520"/>
+								<entry from="HL70523" to="http://hl7.org/fhir/v2/523"/>
+								<entry from="HL70524" to="http://hl7.org/fhir/v2/524"/>
+								<entry from="HL70527" to="http://hl7.org/fhir/v2/527"/>
+								<entry from="HL70528" to="http://hl7.org/fhir/v2/528"/>
+								<entry from="HL70529" to="http://hl7.org/fhir/v2/529"/>
+								<entry from="HL70530" to="http://hl7.org/fhir/v2/530"/>
+								<entry from="HL70534" to="http://hl7.org/fhir/v2/534"/>
+								<entry from="HL70535" to="http://hl7.org/fhir/v2/535"/>
+								<entry from="HL70536" to="http://hl7.org/fhir/v2/536"/>
+								<entry from="HL70538" to="http://hl7.org/fhir/v2/538"/>
+								<entry from="HL70540" to="http://hl7.org/fhir/v2/540"/>
+								<entry from="HL70544" to="http://hl7.org/fhir/v2/544"/>
+								<entry from="HL70547" to="http://hl7.org/fhir/v2/547"/>
+								<entry from="HL70548" to="http://hl7.org/fhir/v2/548"/>
+								<entry from="HL70550" to="http://hl7.org/fhir/v2/550"/>
+								<entry from="HL70553" to="http://hl7.org/fhir/v2/553"/>
+								<entry from="HL70554" to="http://hl7.org/fhir/v2/554"/>
+								<entry from="HL70555" to="http://hl7.org/fhir/v2/555"/>
+								<entry from="HL70556" to="http://hl7.org/fhir/v2/556"/>
+								<entry from="HL70557" to="http://hl7.org/fhir/v2/557"/>
+								<entry from="HL70558" to="http://hl7.org/fhir/v2/558"/>
+								<entry from="HL70559" to="http://hl7.org/fhir/v2/559"/>
+								<entry from="HL70561" to="http://hl7.org/fhir/v2/561"/>
+								<entry from="HL70562" to="http://hl7.org/fhir/v2/562"/>
+								<entry from="HL70564" to="http://hl7.org/fhir/v2/564"/>
+								<entry from="HL70565" to="http://hl7.org/fhir/v2/565"/>
+								<entry from="HL70566" to="http://hl7.org/fhir/v2/566"/>
+								<entry from="HL70569" to="http://hl7.org/fhir/v2/569"/>
+								<entry from="HL70570" to="http://hl7.org/fhir/v2/570"/>
+								<entry from="HL70571" to="http://hl7.org/fhir/v2/571"/>
+								<entry from="HL70572" to="http://hl7.org/fhir/v2/572"/>
+								<entry from="HL70615" to="http://hl7.org/fhir/v2/615"/>
+								<entry from="HL70616" to="http://hl7.org/fhir/v2/616"/>
+								<entry from="HL70617" to="http://hl7.org/fhir/v2/617"/>
+								<entry from="HL70618" to="http://hl7.org/fhir/v2/618"/>
+								<entry from="HL70625" to="http://hl7.org/fhir/v2/625"/>
+								<entry from="HL70634" to="http://hl7.org/fhir/v2/634"/>
+								<entry from="HL70642" to="http://hl7.org/fhir/v2/642"/>
+								<entry from="HL70651" to="http://hl7.org/fhir/v2/651"/>
+								<entry from="HL70653" to="http://hl7.org/fhir/v2/653"/>
+								<entry from="HL70657" to="http://hl7.org/fhir/v2/657"/>
+								<entry from="HL70659" to="http://hl7.org/fhir/v2/659"/>
+								<entry from="HL70667" to="http://hl7.org/fhir/v2/667"/>
+								<entry from="HL70669" to="http://hl7.org/fhir/v2/669"/>
+								<entry from="HL70682" to="http://hl7.org/fhir/v2/682"/>
+								<entry from="HL70702" to="http://hl7.org/fhir/v2/702"/>
+								<entry from="HL70717" to="http://hl7.org/fhir/v2/717"/>
+								<entry from="HL70719" to="http://hl7.org/fhir/v2/719"/>
+								<entry from="HL70725" to="http://hl7.org/fhir/v2/725"/>
+								<entry from="HL70728" to="http://hl7.org/fhir/v2/728"/>
+								<entry from="HL70731" to="http://hl7.org/fhir/v2/731"/>
+								<entry from="HL70734" to="http://hl7.org/fhir/v2/734"/>
+								<entry from="HL70739" to="http://hl7.org/fhir/v2/739"/>
+								<entry from="HL70742" to="http://hl7.org/fhir/v2/742"/>
+								<entry from="HL70749" to="http://hl7.org/fhir/v2/749"/>
+								<entry from="HL70755" to="http://hl7.org/fhir/v2/755"/>
+								<entry from="HL70757" to="http://hl7.org/fhir/v2/757"/>
+								<entry from="HL70759" to="http://hl7.org/fhir/v2/759"/>
+								<entry from="HL70761" to="http://hl7.org/fhir/v2/761"/>
+								<entry from="HL70763" to="http://hl7.org/fhir/v2/763"/>
+								<entry from="HL70776" to="http://hl7.org/fhir/v2/776"/>
+								<entry from="HL70778" to="http://hl7.org/fhir/v2/778"/>
+								<entry from="HL70790" to="http://hl7.org/fhir/v2/790"/>
+								<entry from="HL70793" to="http://hl7.org/fhir/v2/793"/>
+								<entry from="HL70806" to="http://hl7.org/fhir/v2/806"/>
+								<entry from="HL70818" to="http://hl7.org/fhir/v2/818"/>
+								<entry from="HL70834" to="http://hl7.org/fhir/v2/834"/>
+								<entry from="HL70868" to="http://hl7.org/fhir/v2/868"/>
+								<entry from="HL70871" to="http://hl7.org/fhir/v2/871"/>
+								<entry from="HL70881" to="http://hl7.org/fhir/v2/881"/>
+								<entry from="HL70882" to="http://hl7.org/fhir/v2/882"/>
+								<entry from="HL70894" to="http://hl7.org/fhir/v2/894"/>
+								<entry from="HL70895" to="http://hl7.org/fhir/v2/895"/>
+								<entry from="HL70904" to="http://hl7.org/fhir/v2/904"/>
+								<entry from="HL70905" to="http://hl7.org/fhir/v2/905"/>
+								<entry from="HL70906" to="http://hl7.org/fhir/v2/906"/>
+								<entry from="HL70907" to="http://hl7.org/fhir/v2/907"/>
+								<entry from="HL70909" to="http://hl7.org/fhir/v2/909"/>
+								<entry from="HL70912" to="http://hl7.org/fhir/v2/912"/>
+								<entry from="HL70914" to="http://hl7.org/fhir/v2/914"/>
+								<entry from="HL70916" to="http://hl7.org/fhir/v2/916"/>
+								<entry from="HL70917" to="http://hl7.org/fhir/v2/917"/>
+								<entry from="HL70918" to="http://hl7.org/fhir/v2/918"/>
+								<entry from="HL70919" to="http://hl7.org/fhir/v2/919"/>
+								<entry from="HL70920" to="http://hl7.org/fhir/v2/920"/>
+								<entry from="HL70921" to="http://hl7.org/fhir/v2/921"/>
+								<entry from="HL70922" to="http://hl7.org/fhir/v2/922"/>
+								<entry from="HL70923" to="http://hl7.org/fhir/v2/923"/>
+								<entry from="HL70924" to="http://hl7.org/fhir/v2/924"/>
+								<entry from="HL70925" to="http://hl7.org/fhir/v2/925"/>
+								<entry from="HL70926" to="http://hl7.org/fhir/v2/926"/>
+								<entry from="HL70927" to="http://hl7.org/fhir/v2/927"/>
+								<entry from="HL70933" to="http://hl7.org/fhir/v2/933"/>
+								<entry from="HL70935" to="http://hl7.org/fhir/v2/935"/>
+								<entry from="HL74000" to="http://hl7.org/fhir/v2/4000"/>
+								<entry from="LN" to="http://loinc.org"/>
+								<entry from="SNOMED CT" to="http://snomed.info/sct"/>
+								<entry from="USPS" to="http://hl7.org/fhir/ValueSet/usps-state"/>
+								<entry from="UCUM" to="http://unitsofmeasure.org"/>
+								<entry from="FIPS64" to="hthttps://www.census.gov/geo/reference/"/>
+								<entry from="RFC2046" to="http://www.rfc-editor.org/bcp/bcp13.txt"/>
+								<entry from="SCT" to="http://snomed.info/sct"/>
+								<entry from="HL70125" to="http://hl7.org/fhir/v2/125"/>
+								<entry from="HL70936" to="http://hl7.org/fhir/v2/936"/>
+								<entry from="HL70533" to="http://hl7.org/fhir/v2/533"/>
+							</valuemapTable>
+							<input name="input" type="string"/>
+							<result name="result" type="string" defaultValue="codesystem-missing"/>
+						</valuemap>
+					</data>
+				</component>
+			</children>
+			<graph directed="1">
+				<edges/>
+				<vertices>
+					<vertex vertexkey="9">
+						<edges>
+							<edge vertexkey="28" edgekey="54"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="10">
+						<edges>
+							<edge vertexkey="29" edgekey="55"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="11">
+						<edges>
+							<edge vertexkey="30" edgekey="56"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="12">
+						<edges>
+							<edge vertexkey="31" edgekey="57"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="13">
+						<edges>
+							<edge vertexkey="32" edgekey="58"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="14">
+						<edges>
+							<edge vertexkey="33" edgekey="59"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="15">
+						<edges>
+							<edge vertexkey="34" edgekey="60"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="16">
+						<edges>
+							<edge vertexkey="35" edgekey="61"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="17">
+						<edges>
+							<edge vertexkey="36" edgekey="62"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="18">
+						<edges>
+							<edge vertexkey="37" edgekey="63"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="19">
+						<edges>
+							<edge vertexkey="38" edgekey="64"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="20">
+						<edges>
+							<edge vertexkey="39" edgekey="65"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="21">
+						<edges>
+							<edge vertexkey="40" edgekey="66"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="22">
+						<edges>
+							<edge vertexkey="41" edgekey="67"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="23">
+						<edges>
+							<edge vertexkey="42" edgekey="69"/>
+							<edge vertexkey="74" edgekey="78"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="24">
+						<edges>
+							<edge vertexkey="43" edgekey="70"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="25">
+						<edges>
+							<edge vertexkey="44" edgekey="71"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="26">
+						<edges>
+							<edge vertexkey="45" edgekey="72"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="27">
+						<edges>
+							<edge vertexkey="46" edgekey="49"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="75">
+						<edges>
+							<edge vertexkey="1" edgekey="77"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="85">
+						<edges>
+							<edge vertexkey="91" edgekey="93"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="86">
+						<edges>
+							<edge vertexkey="80" edgekey="94"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="87">
+						<edges>
+							<edge vertexkey="81" edgekey="95"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="88">
+						<edges>
+							<edge vertexkey="82" edgekey="96"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="89">
+						<edges>
+							<edge vertexkey="83" edgekey="97"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="90">
+						<edges>
+							<edge vertexkey="84" edgekey="98"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="92">
+						<edges>
+							<edge vertexkey="79" edgekey="99"/>
+						</edges>
+					</vertex>
+				</vertices>
+			</graph>
+		</structure>
+	</component>
+</mapping>

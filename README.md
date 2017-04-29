@@ -26,8 +26,8 @@ Creating FHIR Valueset from LRI/LOI/EDOS and ELR NIST Valuesets
   
 1. todos
    - fix the List fullURL and id so that will correctly post when doing a batch
-   - update some valueset to standard FHIR valuesets ( see codesystem mapping spreadsheet.
-   - Convert to STU3
+   - update some valuesets to standard FHIR valuesets ( see codesystem mapping spreadsheet.
+   - Convert to FHIR STU3 Valuesets
    - Publish in IG format
       - base = `http://hl7.org/fhir/us/lab`
       - extension for usage = `http://hl7.org/fhir/us/lab/StructureDefinition/code-usage`

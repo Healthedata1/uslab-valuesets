@@ -14,14 +14,14 @@ Creating FHIR Valueset from LRI/LOI/EDOS and ELR NIST Valuesets
 1. transform to bundle using one of two transforms in the `nist-to-lri transforms` folder:
    1. single bundle of all resources using: "C:\Users\Eric\Documents\NIST_LOI\Valueset stuff\nist-to-lri transforms\splitter_v2.xslt" or 
    1. Batch request bundle to load all valuesets into a FHIR server to get:
-      - [ELR_bundle-nohyperlinks](http://htmlpreview.github.com/?https://github.com/Healthedata1/uslab-valuesets/blob/master/FHIR-batch-bundles/ELR_bundle-nohyperlinks.xml)
-      - [LOI_bundle](http://htmlpreview.github.com/?https://github.com/Healthedata1/uslab-valuesets/blob/master/FHIR-batch-bundles/LOI_bundle.xml)
-      - [LOI_bundle-nohyperlinks](http://htmlpreview.github.com/?https://github.com/Healthedata1/uslab-valuesets/blob/master/FHIR-batch-bundles/LOI_bundle-nohyperlinks.xml)
-      - [LRI](http://htmlpreview.github.com/?https://github.com/Healthedata1/uslab-valuesets/blob/master/FHIR-batch-bundles/LRI.xml)
-      - [LRI_bundle](http://htmlpreview.github.com/?https://github.com/Healthedata1/uslab-valuesets/blob/master/FHIR-batch-bundles/LRI_bundle.xml)
-      - [LRI_bundle-nohyperlinks](http://htmlpreview.github.com/?https://github.com/Healthedata1/uslab-valuesets/blob/master/FHIR-batch-bundles/LRI_bundle-nohyperlinks.xml)
-      - [EDOS_bundle-nohyperlinks](http://htmlpreview.github.com/?https://github.com/Healthedata1/uslab-valuesets/blob/master/FHIR-batch-bundles/EDOS_bundle-nohyperlinks.xml)
-      - [ELR_bundle](http://htmlpreview.github.com/?https://github.com/Healthedata1/uslab-valuesets/blob/master/FHIR-batch-bundles/ELR_bundle.xml)
+      - [ELR_bundle-nohyperlinks](http://healthedatainc.com/go-ftp/uslab-fhir-valuesets/ELR_bundle-nohyperlinks.xml)
+      - [LOI_bundle](http://healthedatainc.com/go-ftp/uslab-fhir-valuesets/LOI_bundle.xml)
+      - [LOI_bundle-nohyperlinks](http://healthedatainc.com/go-ftp/uslab-fhir-valuesets/LOI_bundle-nohyperlinks.xml)
+      - [LRI](http://healthedatainc.com/go-ftp/uslab-fhir-valuesets/LRI.xml)
+      - [LRI_bundle](http://healthedatainc.com/go-ftp/uslab-fhir-valuesets/LRI_bundle.xml)
+      - [LRI_bundle-nohyperlinks](http://healthedatainc.com/go-ftp/uslab-fhir-valuesets/LRI_bundle-nohyperlinks.xml)
+      - [EDOS_bundle-nohyperlinks](http://healthedatainc.com/go-ftp/uslab-fhir-valuesets/EDOS_bundle-nohyperlinks.xml)
+      - [ELR_bundle]http://healthedatainc.com/go-ftp/uslab-fhir-valuesets/ELR_bundle.xml)
   
   
 1. todos

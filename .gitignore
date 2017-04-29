@@ -1,0 +1,7 @@
+# Ignore everything in the root except these directories and files
+/*
+!.gitignore
+!README.md
+!nist-to-lri transforms/
+!nist-to-lri transforms/
+!nist-to-lri transforms/

@@ -3,5 +3,5 @@
 !.gitignore
 !README.md
 !nist-to-lri transforms/
-!nist-to-lri transforms/
-!nist-to-lri transforms/
+!FHIR-batch-bundles/
+!20160324_1405_packageR1.1/
